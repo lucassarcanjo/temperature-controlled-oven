@@ -1,2 +1,2 @@
 # TemperatureControl
-Project of a eletric oven with temperature control. Programming on MSP430 (Texas Instruments).
+Project of a electric oven with temperature control. Programmed with C in MSP430 (Texas Instruments).
